@@ -1,2 +1,2 @@
 # BioInfo_Project
-This repo contains HMM and PCA project.
+This repo contains PCA project.
